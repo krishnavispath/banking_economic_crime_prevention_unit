@@ -1,0 +1,272 @@
+[
+  {
+    "customer_id": "CUST-023",
+    "full_name": "Boris Ivanov",
+    "date_of_birth": "08/01/1965",
+    "risk_rating": "high",
+    "pep_flag": false,
+    "country_code": "GB",
+    "kyc_status": "UNDER_REVIEW",
+    "onboarded_date": "2013-07-19"
+  },
+  {
+    "customer_id": "CUST-006",
+    "full_name": "Sandra Whitmore",
+    "date_of_birth": "07/05/1975",
+    "risk_rating": "Low",
+    "pep_flag": false,
+    "country_code": "UK",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2017-06-01"
+  },
+  {
+    "customer_id": "CUST-010",
+    "full_name": "Fatima Al-Hassan",
+    "date_of_birth": "30/07/1995",
+    "risk_rating": "Low",
+    "pep_flag": false,
+    "country_code": "JO",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2022-05-12"
+  },
+  {
+    "customer_id": "CUST-001",
+    "full_name": "Marcus Oyelaran",
+    "date_of_birth": "12/04/1979",
+    "risk_rating": "High",
+    "pep_flag": false,
+    "country_code": "GB",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2018-03-15"
+  },
+  {
+    "customer_id": "CUST-017",
+    "full_name": "Robert Kowalski",
+    "date_of_birth": "1971-09-01",
+    "risk_rating": "Medium",
+    "pep_flag": false,
+    "country_code": "PL",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2018-08-30"
+  },
+  {
+    "customer_id": "CUST-020",
+    "full_name": "Sarah Mitchell",
+    "date_of_birth": "06/08/1989",
+    "risk_rating": "Low",
+    "pep_flag": false,
+    "country_code": "GB",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2020-10-11"
+  },
+  {
+    "customer_id": "CUST-012",
+    "full_name": "Priya Sharma",
+    "date_of_birth": "11/10/1986",
+    "risk_rating": "Low",
+    "pep_flag": false,
+    "country_code": "IN",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2023-01-19"
+  },
+  {
+    "customer_id": "CUST-009",
+    "full_name": "Dmitri Sorokin",
+    "date_of_birth": "14/09/1961",
+    "risk_rating": "High",
+    "pep_flag": false,
+    "country_code": "UA",
+    "kyc_status": "UNDER_REVIEW",
+    "onboarded_date": "2014-04-28"
+  },
+  {
+    "customer_id": "CUST-014",
+    "full_name": "Elena Petrov",
+    "date_of_birth": "1969-07-23",
+    "risk_rating": "High",
+    "pep_flag": false,
+    "country_code": "BG",
+    "kyc_status": "UNDER_REVIEW",
+    "onboarded_date": "2016-11-14"
+  },
+  {
+    "customer_id": "CUST-007",
+    "full_name": "Oluwaseun Adeyemi",
+    "date_of_birth": "19/12/1988",
+    "risk_rating": "Medium",
+    "pep_flag": false,
+    "country_code": "GB",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2019-11-25"
+  },
+  {
+    "customer_id": "CUST-019",
+    "full_name": "Mohamed Osman",
+    "date_of_birth": "28/03/1977",
+    "risk_rating": "HIGH",
+    "pep_flag": false,
+    "country_code": "SO",
+    "kyc_status": "UNDER_REVIEW",
+    "onboarded_date": "2016-02-17"
+  },
+  {
+    "customer_id": "CUST-004",
+    "full_name": "Valentina Kozlova",
+    "date_of_birth": "1967-02-17",
+    "risk_rating": "high",
+    "pep_flag": true,
+    "country_code": "RU",
+    "kyc_status": "UNDER_REVIEW",
+    "onboarded_date": "2015-09-30"
+  },
+  {
+    "customer_id": "CUST-005",
+    "full_name": "Ahmed Al-Rashidi",
+    "date_of_birth": "21/08/1982",
+    "risk_rating": "medium",
+    "pep_flag": false,
+    "country_code": "AE",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2022-02-14"
+  },
+  {
+    "customer_id": "CUST-015",
+    "full_name": "James Fitzgerald",
+    "date_of_birth": "29/02/1980",
+    "risk_rating": "Medium",
+    "pep_flag": true,
+    "country_code": "IE",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2019-07-07"
+  },
+  {
+    "customer_id": "CUST-025",
+    "full_name": "Lars Nielsen",
+    "date_of_birth": "24/10/1974",
+    "risk_rating": "Medium",
+    "pep_flag": false,
+    "country_code": "XX",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2019-09-16"
+  },
+  {
+    "customer_id": "CUST-008",
+    "full_name": "Claire Buchanan",
+    "date_of_birth": "1993-03-04",
+    "risk_rating": "Low",
+    "pep_flag": false,
+    "country_code": "GB",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2021-08-17"
+  },
+  {
+    "customer_id": "CUST-019",
+    "full_name": "Mohamed Osman",
+    "date_of_birth": "28/03/1977",
+    "risk_rating": "HIGH",
+    "pep_flag": false,
+    "country_code": "SO",
+    "kyc_status": "EXPIRED",
+    "onboarded_date": "2014-08-01"
+  },
+  {
+    "customer_id": "CUST-002",
+    "full_name": "Diane Ashworth",
+    "date_of_birth": "1985-11-03",
+    "risk_rating": "Medium",
+    "pep_flag": false,
+    "country_code": "GB",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2020-07-22"
+  },
+  {
+    "customer_id": "CUST-024",
+    "full_name": "Chioma Okonkwo",
+    "date_of_birth": "13/04/1996",
+    "risk_rating": "Low",
+    "pep_flag": false,
+    "country_code": "GB",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2023-06-05"
+  },
+  {
+    "customer_id": "CUST-016",
+    "full_name": "Amara Diallo",
+    "date_of_birth": "1994-06-18",
+    "risk_rating": "Low",
+    "pep_flag": null,
+    "country_code": "SN",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2023-03-22"
+  },
+  {
+    "customer_id": "CUST-021",
+    "full_name": "Tiago Ferreira",
+    "date_of_birth": "16/05/1987",
+    "risk_rating": "medium",
+    "pep_flag": false,
+    "country_code": "PT",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2021-04-29"
+  },
+  {
+    "customer_id": "CUST-008",
+    "full_name": "Claire Buchanan",
+    "date_of_birth": "1993-03-04",
+    "risk_rating": "Low",
+    "pep_flag": false,
+    "country_code": "GB",
+    "kyc_status": "EXPIRED",
+    "onboarded_date": "2020-03-14"
+  },
+  {
+    "customer_id": "CUST-013",
+    "full_name": "Wei Chen",
+    "date_of_birth": "05/04/1991",
+    "risk_rating": "Medium",
+    "pep_flag": false,
+    "country_code": "EU",
+    "kyc_status": "PENDING",
+    "onboarded_date": "2022-09-03"
+  },
+  {
+    "customer_id": "CUST-018",
+    "full_name": "Ingrid Larsson",
+    "date_of_birth": "1983-12-14",
+    "risk_rating": "Low",
+    "pep_flag": false,
+    "country_code": "SE",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2021-06-04"
+  },
+  {
+    "customer_id": "CUST-022",
+    "full_name": "Anika Patel",
+    "date_of_birth": "27/11/1992",
+    "risk_rating": "Low",
+    "pep_flag": false,
+    "country_code": "UK",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2022-12-01"
+  },
+  {
+    "customer_id": "CUST-011",
+    "full_name": "Yusuf Bergmann",
+    "date_of_birth": "1978-01-22",
+    "risk_rating": "Medium",
+    "pep_flag": null,
+    "country_code": "DE",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2020-03-08"
+  },
+  {
+    "customer_id": "CUST-003",
+    "full_name": "Patrick Nkemdirim",
+    "date_of_birth": "28/06/1990",
+    "risk_rating": "Low",
+    "pep_flag": false,
+    "country_code": "NG",
+    "kyc_status": "VERIFIED",
+    "onboarded_date": "2021-01-09"
+  }
+]
