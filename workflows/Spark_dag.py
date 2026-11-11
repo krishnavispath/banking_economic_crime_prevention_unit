@@ -13,10 +13,10 @@ from datetime import datetime
 # GCP CONFIG
 # =========================================================
 
-PROJECT_ID = "project-03f569c3-1269-4daa-8bb" 
+PROJECT_ID = "project-dcd27d37-1227-41c6-839" 
 REGION = "us-central1"  
-CLUSTER_NAME = "demo-cluster"
-COMPOSER_BUCKET = "us-central1-bankingproj-3b235843-bucket" ##CHANGE THIS TO YOUR COMPOSER BUCKET NAME
+CLUSTER_NAME = "project-cluster"
+COMPOSER_BUCKET = "us-east4-sampleairflow-f12b3e02-bucket" ##CHANGE THIS TO YOUR COMPOSER BUCKET NAME
 
 CLUSTER_CONFIG = {
     "master_config": {

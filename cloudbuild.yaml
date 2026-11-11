@@ -18,5 +18,5 @@ options:
 
 substitutions:
   _DAGS_DIRECTORY: "workflows/"
-  _DAGS_BUCKET: "us-central1-bankingproj-3b235843-bucket" # Replace with your Composer bucket
+  _DAGS_BUCKET: "us-east4-sampleairflow-f12b3e02-bucket" # Replace with your Composer bucket
   _DATA_DIRECTORY: "data/"
