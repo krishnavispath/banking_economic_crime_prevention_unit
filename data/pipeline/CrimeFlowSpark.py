@@ -348,19 +348,21 @@ cnt_df = spark.read \
 cnt_df.show()
 
 #FACT TRANSACTIONS TABLE
-bqpath = f"{PROJECT_ID}:{DATASET}.fact_transactions"
-gcs_parquetpath = f"gs://{BUCKET}/cleansed/final_transactions/*.parquet"
-print(bqpath)
-!bq load \
-    --replace \
-      --source_format=PARQUET \
-      {bqpath} \
-    {gcs_parquetpath}
-print("FACT TABLE LOADED")
+TEMP_BUCKET = BUCKET   # Bucket name only, no gs://
+fact_table = f"{PROJECT_ID}:{DATASET}.fact_transactions"
+
+(
+    parquet_df.write
+    .format("bigquery")
+    .option("temporaryGcsBucket", TEMP_BUCKET)
+    .option("table", fact_table)
+    .mode("overwrite")
+    .save()
+)
+
+print(f"FACT TABLE LOADED: {record_count:,} rows into {fact_table}")
 
 #DIM CUSTOMER TABLE
-TEMP_BUCKET = BUCKET   # Bucket name only, no gs://
-
 dim_customer_df = customer_df.select(
                 'customer_id',
                 'full_name',
